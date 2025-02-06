@@ -1,0 +1,17 @@
+# requirements.txt for AI Assistant for 2nd Edition AD&D
+
+# Core Dependencies
+python=3.9 # Or your preferred Python version
+nltk==3.8.1 # Or latest version
+scikit-learn==1.2.2 # Or latest version
+
+# For potential deep learning models 
+transformers==4.29.2 # Or latest version
+torch==2.0.0  # Or latest version (ensure CUDA compatibility if using GPU)
+
+# For data loading and manipulation
+pandas==2.0.1 # Or latest version
+
+# For evaluation 
+# Add libraries as needed, e.g., for metrics specific to your tasks
+
